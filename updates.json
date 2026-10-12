@@ -1,12 +1,12 @@
 [
   {
-    "datetime": 1791788692,
+    "datetime": 1791816736,
     "files": [
       {
         "filename": "lineage-24.0-20261012-UNOFFICIAL-hoang-athena.zip",
         "os_sdk_level": 37,
-        "sha256": "061fb665d63d711f7ac3f0cb44c641f53de30396b920fd4564d720a95bc069fb",
-        "size": 1480779041,
+        "sha256": "141d345f50f658c9c75d04cbdb8cf735b556c62269e19c03692beb3bf4e92e03",
+        "size": 1480897137,
         "url": "https://github.com/nghoang290390-dotcom/key2-ota/releases/download/lineage-24.0-20261012-UNOFFICIAL-hoang-athena/lineage-24.0-20261012-UNOFFICIAL-hoang-athena.zip",
         "os_patch_level": "2026-09-01",
         "ota_property_files": "metadata:69:332,metadata.pb:469:213"
